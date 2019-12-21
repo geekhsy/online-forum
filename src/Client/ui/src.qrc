@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/img">
+        <file alias="loginBkg">loginBkg.jpg</file>
+        <file alias="userIcon">User.png</file>
+        <file alias="welcomeBanner">Welcome.png</file>
+        <file alias="bkg">Background.jpg</file>
+        <file alias="banner">banner.jpg</file>
+        <file alias="mainBkg">mainBkg.jpg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>bkg1.jpg</file>
+        <file>bkg2.jpg</file>
+        <file>bkg3.jpg</file>
+        <file>bkg4.jpg</file>
+        <file>bkg5.jpg</file>
+    </qresource>
+</RCC>
