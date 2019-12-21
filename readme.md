@@ -1,1 +1,1 @@
-This is a c++ application that I wrote about 2 years ago. I implemented it with QT and  used multiple design patterns to optimize its architecture. The documents and notes were written by Chinese originally and I would be updated and replaced them in  English latter.
+This is a c++ application that I wrote about 2 years ago. I implemented it with QT and  used multiple design patterns to optimize its architecture. The documents and notes were written by Chinese originally and I would update and replace them in English latter.
